@@ -1,4 +1,4 @@
-# fui-vue
+# Fui-vue
 
 ## Project setup
 ```
